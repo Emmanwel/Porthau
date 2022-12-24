@@ -97,3 +97,23 @@ git checkout -b Porty
 
 git checkout Manu1 - changing to certain branch. 
 changes to be staged 
+
+
+
+GIT -Rebase changes. 
+ git checkout master
+ git pull
+ git rebase main
+ go to vs code and stage all of the changes and merge conflicting changes. 
+ git rebase --continue
+ git status
+ git push -f
+ git status
+
+To be staged further. 
+
+
+
+
+
+
