@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+Package installation. 
+1. Framer motion
+2. react-anchor-smooth scroll
+npm i react-anchor-link-smooth-scroll
+3. Google fonts. 
+- regular 400, semi-bold 600
+
+4. Hooks
+UseMediaQuery
+
+5. Tailwind Setup
+vs CODE Extensions. 
+Tailwind CSS Intelisence - Tailwind Docs, Tailwind Documentation.
+ctl+shift+p - open tailwind documentation. 
