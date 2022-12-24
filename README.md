@@ -94,3 +94,6 @@ git branch -M main
 
 Create a new branch
 git checkout -b Porty
+
+git checkout Manu1 - changing to certain branch. 
+changes to be staged 
