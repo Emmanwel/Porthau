@@ -78,3 +78,19 @@ UseMediaQuery
 vs CODE Extensions. 
 Tailwind CSS Intelisence - Tailwind Docs, Tailwind Documentation.
 ctl+shift+p - open tailwind documentation. 
+
+
+
+git clone
+git add .
+git commit -m "ff"
+git push origin master
+
+
+two branches. 
+Git branch
+git branch -M main
+
+
+Create a new branch
+git checkout -b Porty
