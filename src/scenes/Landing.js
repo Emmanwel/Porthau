@@ -59,9 +59,9 @@ const Landing = ({ setSelectedPage }) => {
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
             A frontend developer with 2 years experience in customization of
-            innovative solutions using JavaScript, HTML, CSS, Laravel, Node JS.
-            I Aspire to join your team in the mission to develop solutions that
-            impact your vision.
+            innovative solutions using JavaScript, HTML, CSS,Tailwind CSS, React
+            JS, Vue JS, Laravel, and Node JS. I Aspire to join your team in the
+            mission to develop solutions that impact your vision.
           </p>
         </motion.div>
 
