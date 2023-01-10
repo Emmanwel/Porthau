@@ -113,6 +113,12 @@ GIT -Rebase changes.
 To be staged further. 
 
 
+Contact Page
+Form submit
+React Hook form
+
+
+
 
 
 
