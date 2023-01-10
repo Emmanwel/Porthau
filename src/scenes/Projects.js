@@ -22,7 +22,7 @@ const Projects = () => {
           </div>
 
           {/* container for projects */}
-          <div className="h-80 grid sm:grid-cols-2 h-80vh md:grid-cols-2 w-200 h-210vh gap-4 py-[-20] ">
+          <div className="h-120 grid sm:grid-cols-2 h-80vh md:grid-cols-2 w-200 h-210vh gap-4 py-[-20] ">
             {/* Gird Item */}
             {project.map((item, index) => (
               <div
