@@ -10,7 +10,7 @@ html,
 body, 
 #root, 
 .app{
-  heigh:100%;
-  background-color: bisque;
+  height:60%;
+  background-color: rgb(82, 68, 52);
   @apply text-white;
 }
