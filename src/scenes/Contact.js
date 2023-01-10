@@ -78,7 +78,7 @@ const Contact = () => {
             method="POST"
           >
             <input
-              className="w-full bg-white font-semibold placeholder-opaque-black p-3"
+              className="w-full bg-white font-semibold placeholder-opaque-black p-3 text-black"
               type="text"
               placeholder="NAME"
               {...register('name', {
@@ -94,7 +94,7 @@ const Contact = () => {
             )}
 
             <input
-              className="w-full bg-white font-semibold placeholder-opaque-black p-3 mt-5"
+              className="w-full bg-white font-semibold placeholder-opaque-black p-3 mt-5 text-black"
               type="text"
               placeholder="EMAIL"
               {...register('email', {
@@ -110,7 +110,7 @@ const Contact = () => {
             )}
 
             <textarea
-              className="w-full bg-white font-semibold placeholder-opaque-black p-3 mt-5"
+              className="w-full bg-white font-semibold placeholder-opaque-black p-3 mt-5 text-black"
               name="message"
               placeholder="MESSAGE"
               rows="4"
