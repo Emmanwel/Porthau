@@ -32,4 +32,11 @@ export const data = [
     github: 'https://github.com/Emmanwel/Todos.git',
     live: 'https://todos11.vercel.app/',
   },
+  {
+    id: 5,
+    name: 'Todo Application',
+    image: Todo,
+    github: 'https://github.com/Emmanwel/Todos.git',
+    live: 'https://todos11.vercel.app/',
+  },
 ]

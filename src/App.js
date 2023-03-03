@@ -18,7 +18,7 @@ function App() {
   const [isTopOfPage, setisTopOfPage] = useState(true)
 
   //displays the media quesry of the screen size
-  //const isAboveMediumScreens = useMediaQuery('min-width:1060px')
+  const isAboveMediumScreens = useMediaQuery('min-width:1060px')
 
   const isDesktop = useMediaQuery('(min-width: 1060px)')
 
