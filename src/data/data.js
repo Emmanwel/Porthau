@@ -31,7 +31,7 @@ export const data = [
     id: 4,
     name: 'Skills & Experience',
     image: Dash,
-    github: 'https://github.com/Emmanwel/Todos.git',
+    github: 'https://github.com/Emmanwel/Employee_Management.git',
     live:
       'https://a2pnamdrzmof3dbgkjbj4fy4um0bgxsh.cell-1-lambda-url.us-east-1.on.aws/',
   },
