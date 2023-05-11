@@ -57,11 +57,11 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Hi, I'm Emmanuel Mukhebi, a software developer with a passion
-                for creating beautiful, functional, and user-centered digital
-                experiences. With 2 years of experience in the field. I am
-                always looking for new and innovative ways to bring my clients'
-                visions to life.{" "}
+                Hi, I&rsquo;m Emmanuel Mukhebi, a software developer with a
+                passion for creating beautiful, functional, and user-centered
+                digital experiences. With 2 years of experience in the field. I
+                am always looking for new and innovative ways to bring my
+                clients&rsquo; visions to life.{" "}
               </p>
 
               <p className="my-4 font-medium">
